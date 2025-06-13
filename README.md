@@ -48,7 +48,7 @@ When a user asks a question:
      - mxbai-embed-large (for embeddings)
      - gemma3:4b (for text generation)
 
-4.**pinecone Setup**
+4. **pinecone Setup**
     -create an index i.e rag-python-pdf and make sure to add your model embedding Dimensions for this setup project its 1024
 
 ## Usage
